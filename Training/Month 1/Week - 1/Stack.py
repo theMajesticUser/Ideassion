@@ -1,0 +1,10 @@
+q=['1']
+print("The Stack : ",q)
+q.append('2')
+print("Push :",q)
+q.append('3')
+print("Push :",q)
+q.pop()
+print("Pop :",q)
+q.pop()
+print("Pop :",q)
